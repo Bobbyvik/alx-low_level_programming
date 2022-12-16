@@ -2,9 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - Print a Fizz Buzz program
+ * main - Prints a Fizz Buzz program
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int x;
