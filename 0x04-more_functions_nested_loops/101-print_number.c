@@ -24,3 +24,4 @@ void print_number(int n)
 	print_number(k);
 	_putchar((unsigned int) n % 10 + '0');
 }
+
